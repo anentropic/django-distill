@@ -468,10 +468,10 @@ publish your site.
 # Tests
 
 There is a minimal test suite, you can run it by cloing this repository,
-installing the required dependancies in `requirements.txt` then execuiting:
+installing the required dependancies in `requirements-dev.txt` then executing:
 
 ```bash
-# ./run-tests.py
+# pytest -v tests
 ```
 
 
